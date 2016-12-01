@@ -1,0 +1,21 @@
+c:\users\dross\documents\visual studio 2015\Projects\DXLibScene\DXLibScene\bin\Debug\DXLibScene.exe.config
+c:\users\dross\documents\visual studio 2015\Projects\DXLibScene\DXLibScene\obj\Debug\DXLibScene.csprojResolveAssemblyReference.cache
+C:\Users\DROSS\Documents\Visual Studio 2015\Projects\DXLibScene\DXLibScene\bin\Debug\DXLibScene.exe
+C:\Users\DROSS\Documents\Visual Studio 2015\Projects\DXLibScene\DXLibScene\bin\Debug\DXLibScene.pdb
+C:\Users\DROSS\Documents\Visual Studio 2015\Projects\DXLibScene\DXLibScene\bin\Debug\DxLibDotNet.dll
+C:\Users\DROSS\Documents\Visual Studio 2015\Projects\DXLibScene\DXLibScene\obj\Debug\DXLibScene.exe
+C:\Users\DROSS\Documents\Visual Studio 2015\Projects\DXLibScene\DXLibScene\obj\Debug\DXLibScene.pdb
+D:\github\DXLibScene\TestScene\DXLibScene\bin\Debug\DXLibScene.exe.config
+D:\github\DXLibScene\TestScene\DXLibScene\obj\Debug\DXLibScene.exe
+D:\github\DXLibScene\TestScene\DXLibScene\obj\Debug\DXLibScene.pdb
+D:\github\DXLibScene\TestScene\DXLibScene\bin\Debug\DXLibScene.exe
+D:\github\DXLibScene\TestScene\DXLibScene\bin\Debug\DXLibScene.pdb
+D:\github\DXLibScene\TestScene\DXLibScene\bin\Debug\DxLibDotNet.dll
+D:\github\DXLibScene\TestScene\DXLibScene\obj\Debug\DXLibScene.csprojResolveAssemblyReference.cache
+C:\Users\teisama\Desktop\TestScene\DXLibScene\bin\Debug\DXLibScene.exe.config
+C:\Users\teisama\Desktop\TestScene\DXLibScene\obj\Debug\DXLibScene.exe
+C:\Users\teisama\Desktop\TestScene\DXLibScene\obj\Debug\DXLibScene.pdb
+C:\Users\teisama\Desktop\TestScene\DXLibScene\bin\Debug\DXLibScene.exe
+C:\Users\teisama\Desktop\TestScene\DXLibScene\bin\Debug\DXLibScene.pdb
+C:\Users\teisama\Desktop\TestScene\DXLibScene\bin\Debug\DxLibDotNet.dll
+C:\Users\teisama\Desktop\TestScene\DXLibScene\obj\Debug\DXLibScene.csprojResolveAssemblyReference.cache
