@@ -19,3 +19,6 @@ C:\Users\teisama\Desktop\TestScene\DXLibScene\bin\Debug\DXLibScene.exe
 C:\Users\teisama\Desktop\TestScene\DXLibScene\bin\Debug\DXLibScene.pdb
 C:\Users\teisama\Desktop\TestScene\DXLibScene\bin\Debug\DxLibDotNet.dll
 C:\Users\teisama\Desktop\TestScene\DXLibScene\obj\Debug\DXLibScene.csprojResolveAssemblyReference.cache
+D:\github\Scene\DXLibScene\bin\Debug\DXLibScene.exe.config
+D:\github\Scene\DXLibScene\obj\Debug\DXLibScene.exe
+D:\github\Scene\DXLibScene\obj\Debug\DXLibScene.pdb

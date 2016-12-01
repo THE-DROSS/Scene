@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using static DxLibDLL.DX;
 using DXLibScene.source;
+using DROSS;
 
 namespace DXLibScene {
 
